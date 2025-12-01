@@ -44,7 +44,7 @@ export function AboutSection() {
             <div className="absolute inset-0 bg-gradient-to-br from-secondary/20 to-accent/20 rounded-3xl blur-2xl"></div>
             <div className="relative bg-accent-light/40 rounded-3xl p-8 h-96 flex items-center justify-center overflow-hidden">
               <img
-                src="/children-learning-and-playing-together.jpg"
+                src="/aboutusimg.jpg"
                 alt="Deca uče zajedno"
                 className="rounded-2xl w-full h-full object-cover hover:scale-110 transition-transform duration-500"
               />

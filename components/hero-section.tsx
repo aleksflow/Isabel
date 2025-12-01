@@ -44,7 +44,7 @@ export function HeroSection({ onContactClick }: HeroSectionProps) {
             <div className="absolute inset-0 bg-gradient-to-br from-accent/20 to-secondary/20 rounded-3xl blur-2xl"></div>
             <div className="relative bg-accent-light/30 rounded-3xl p-8 h-96 flex items-center justify-center overflow-hidden">
               <img
-                src="/happy-children-playing.png"
+                src="/heroimg.jpg"
                 alt="Deca igraju u boravku"
                 className="rounded-2xl w-full h-full object-cover hover:scale-110 transition-transform duration-500"
               />

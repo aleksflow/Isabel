@@ -26,7 +26,7 @@ export function TeamSection() {
               key={i}
               className="group bg-gradient-to-br from-secondary/30 to-accent/10 rounded-2xl p-8 text-center hover:shadow-xl hover:scale-105 transition-all duration-300 border border-secondary/20"
             >
-              <div className="text-6xl mb-4 group-hover:scale-125 transition-transform duration-300">{member.icon}</div>
+              <div className="text-6xl mb-4 group-hover:scale-125 transition-transform duration-300 flex justify-center"><img className="rounded-2xl object-cover w-[100px]" src="/Aleksandra.jpg"/></div>
               <h3 className="text-xl font-bold text-primary mb-2 font-serif">{member.name}</h3>
               <p className="text-sm font-medium text-accent mb-3">{member.role}</p>
               <p className="text-sm text-foreground/70 leading-relaxed">{member.bio}</p>

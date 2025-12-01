@@ -27,8 +27,9 @@ export function Navigation({ onNavigate }: NavigationProps) {
   return (
     <nav className="fixed w-full top-0 z-50 bg-background/95 backdrop-blur-md border-b border-border/50 shadow-sm">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 py-4 flex justify-between items-center">
-        <a href="#hero" className="text-2xl font-bold text-primary font-serif hover:opacity-80 transition">
+        <a href="#hero" className=" hover:opacity-80 transition">
           <img
+          className="w-[100px] h-auto]"
           src="/logo.png"
           />
         </a>
