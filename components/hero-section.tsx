@@ -13,7 +13,7 @@ export function HeroSection({ onContactClick }: HeroSectionProps) {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h2 className="text-5xl md:text-6xl font-bold leading-tight text-primary mb-6 text-balance font-serif animate-fade-in">
-              Dečji boravak Isabel
+              Dečji boravak Isabelle
             </h2>
             <p className="text-lg text-foreground/70 leading-relaxed text-pretty animate-fade-in-delay-1">
               Topao, siguran i inspirativan prostor gde se vaše dete razvija kroz igru, učenje i kreativnost.

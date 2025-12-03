@@ -8,7 +8,7 @@ export function Footer() {
       <div className="max-w-7xl mx-auto">
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           <div>
-            <h4 className="font-bold text-primary mb-3 font-serif">Dečji boravak Isabel</h4>
+            <h4 className="font-bold text-primary mb-3 font-serif">Dečji boravak Isabelle</h4>
             <p className="text-sm text-foreground/70">Siguran prostor za razvoj, učenje i rast vašeg deteta.</p>
           </div>
           <div>
@@ -55,7 +55,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-border pt-8 text-center text-sm text-foreground/60">
-          <p>&copy; {currentYear} Dečji boravak Isabel. Sva prava zadržana.</p>
+          <p>&copy; {currentYear} Dečji boravak Isabelle. Sva prava zadržana.</p>
         </div>
       </div>
     </footer>
